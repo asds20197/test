@@ -1,11 +1,14 @@
-// app2_1, Â²³æªºJavaµ{¦¡
-public class app2_1   // ©w¸qpublic Ãş§Oapp2_1
+// app2_1, ç°¡å–®çš„Javaç¨‹å¼
+public class app2_1   // å®šç¾©public é¡åˆ¥app2_1
 {
-   public static void main(String args[])  // main() method, ¥Dµ{¦¡¶}©l
+   public static void main(String args[])  // main() method, ä¸»ç¨‹å¼é–‹å§‹
    {
-      int num;       // «Å§i¾ã¼Ænum
-      num=2;         // ±Nnum³]­È¬°2
-      System.out.println("I have "+num+" dogs");   // ¦L¥X¦r¦ê¤ÎÅÜ¼Æ¤º®e
+      int num;       // å®£å‘Šæ•´æ•¸num
+      num=2;         // å°‡numè¨­å€¼ç‚º2
+      System.out.println("I have "+num+" dogs");   // å°å‡ºå­—ä¸²åŠè®Šæ•¸å…§å®¹
       System.out.println("You have "+num+" dogs, too");
+      System.out.println("You have "+num+" dogs, too");
+      System.out.println("You have "+num+" dogs, too");
+      
    }
 }
